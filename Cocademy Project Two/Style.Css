@@ -1,0 +1,58 @@
+body {
+    background-image: 
+    url('C:/Users/Ibo/OneDrive/Dokumente/CodingProjects/Codecademy Practice Projects/Cocademy Project Two/Ressources/giphy.gif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top -100px;
+    background-color: black;
+    margin: 0px;
+}
+
+
+
+nav li {
+    display: inline-block;
+    opacity: 1;
+    color: white;
+    margin: 1px 150px;
+    font-size: 18px;
+}
+
+ul {
+    margin: 5px 0px;
+}
+
+header nav {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    opacity: 1;
+    margin: 0px 0px;
+}
+header {
+    font-family: "Special Elite";
+    font-weight: lighter;
+    margin: 0px;
+}
+h1 {
+    font-size: 80px;
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 600px;
+    opacity: 0.7;
+    
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 500px;
+    margin-left: 110px;
+    margin-right:500px;
+    width: 550px;
+    opacity: 0.7;
+}
+
+* {
+    borde: 1px solid red;
+}
+
